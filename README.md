@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 #### Solved.ac Profile
+Main PS language: C++
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmatkddls)](https://solved.ac/rmatkddls/)
 
 
