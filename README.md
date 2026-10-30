@@ -16,7 +16,7 @@ Focused on:
 | **[code-indexer](https://github.com/sangingeum/code-indexer)** | Semantic code search for agents. One-shot CLI + MCP server over Qdrant + Ollama. Agents never index themselves — they just search. | Python, tree-sitter, Qdrant, Ollama |
 | **[tackboard](https://github.com/sangingeum/tackboard)** | Project-scoped task board for multi-agent coordination. CLI-first, SQLite-backed, dependency DAG, claim system, read-only human board. | Python, SQLite |
 | **[calc-engine](https://github.com/sangingeum/calc-engine)** | Deterministic, subcommand-driven CLI math engine designed for agents. Strict stdout contract, finance, statistics, distributions, matrices. | Python |
-| **[vector-memory](https://github.com/sangingeum/vector-memory)** | Persistent vector memory for agents. MCP + CLI over the same core. Deduplication, superseding, filtering, lifecycle management. | Python, Qdrant, Ollama |
+| **[filekeeper](https://github.com/sangingeum/filekeeper)** | Guarded, undoable filesystem operations for agents and people: atomic writes, a durable operation journal, and undo that refuses to clobber later changes. | Python |
 | **[Edriel](https://github.com/sangingeum/Edriel)** | C++20 multicast pub/sub library with automatic discovery and typed protobuf messaging. Best-effort + reliable QoS paths. | C++20, Asio, gRPC, Protobuf |
 
 ---
